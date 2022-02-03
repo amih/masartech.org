@@ -1,14 +1,14 @@
 [
     {
-        "label": "About",
+        "label": "אודות",
         "url": "/about"
     },
     {
-        "label": "Tag List",
+        "label": "קטגוריות",
         "url": "/tags"
     },
     {
-        "label": "LinkedIn",
+        "label": "לינקדאין",
         "url": "https://www.linkedin.com/in/raduansultany/",
         "newTab": true
     }

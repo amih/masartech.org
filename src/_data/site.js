@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'MasarTech',
+  title: 'מסר טק',
   description: 'MasarTech high tech school and development company',
   keywords: ['learn','high tech','software development', 'learn to code'],
   // your site url without trailing slash
