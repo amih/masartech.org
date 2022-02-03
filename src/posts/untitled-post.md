@@ -1,26 +1,32 @@
 ---
-description: "Example of post without a title"
+title: "ללמוד תכנות"
+description: "הכשרות למגזר הערבי - קצר ולעניין"
 date: 2020-04-20T18:30
 thumb: "windows-7.jpg"
-tags: sample
+tags:
+    - hitech
+    - course
+    - quick
+	- professional
 ---
 
-Spoke as as other again ye. Hard on to roof he drew. So sell side ye in mr evil. Longer waited mr of nature seemed. Improving knowledge incommode objection me ye is prevailed principle in. Impossible alteration devonshire to is interested stimulated dissimilar. To matter esteem polite do if. 
+דו"ח ההון האנושי של הרשות לחדשנות מציג תמונה עגומה: גידול של 8% במשרות שנותנו פנויות בתעשיית ההייטק בהשוואה ליולי 2020, אך עם זאת אין מספיק עובדים שיאיישו אותן. מנכ"ל הרשות: "ההייטק יחטוף מכה אנושה"
 
-Smile spoke total few great had never their too. Amongst moments do in arrived at my replied. Fat weddings servants but man believed prospect. Companions understood is as especially pianoforte connection introduced. Nay newspaper can sportsman are admitting gentleman belonging his. Is oppose no he summer lovers twenty in. Not his difficulty boisterous surrounded bed. Seems folly if in given scale. Sex contented dependent conveying advantage can use. 
+![](/assets/img/masar_masar.jpg)
+משרדי חברת מסאר טכנולוגיה בטירה
+קידום הייטק וחדשנות בחברה הערבית
+לצורך זה הקמנו את חברת מסאר טכנולוגיה אשר תכשיר עובדים בצורה מהירה ויעילה, אנחנו מציעים מגוון קורסים לפי נושאים שחסרים בשוק אין צורך בניסיון קודם או תואר במדעי המחשב, פשוט אנחנו מחפשים אנשים חכמים עם חשיבה לוגית, אנשים שיש להם יכולת להבין מתמטיקה, בעלי תואר ראשון במדעים מדוייקים, מורים למתמטיקה, רוקחים או בעלי יכולת לימוד והתמדה. לא תמיד זה קל, וצריך לא לוותר לעצמך ולהתעקש לנסות להבין את החומר. גם אם קשה, המדריכים פה לעזור לעבור את החלקים הלא ברורים ולהאיץ את פריצת הדרך להצלחה.
 
-Concerns greatest margaret him absolute entrance nay. Door neat week do find past he. Be no surprise he honoured indulged. Unpacked endeavor six steepest had husbands her. Painted no or affixed it so civilly. Exposed neither pressed so cottage as proceed at offices. Nay they gone sir game four. Favourable pianoforte oh motionless excellence of astonished we principles. Warrant present garrets limited cordial in inquiry to. Supported me sweetness behaviour shameless excellent so arranging. 
+![](/assets/img/ami.jpg)
+עמיחי היינס
 
-Dwelling and speedily ignorant any steepest. Admiration instrument affronting invitation reasonably up do of prosperous in. Shy saw declared age debating ecstatic man. Call in so want pure rank am dear were. Remarkably to continuing in surrounded diminution on. In unfeeling existence objection immediate repulsive on he in. Imprudence comparison uncommonly me he difficulty diminution resolution. Likewise proposal differed scarcely dwelling as on raillery. September few dependent extremity own continued and ten prevailed attending. Early to weeks we could. 
+אנחנו מזהים צורך בהכשרת אנשים איכותיים מהחברה הערבית לעבודה בהיי טק. הרבה חברות היי טק ישראליות מעסיקות צוותים שלמים בהודו ובאוקראינה וזה לא הגיוני שממש פה, במרחק דקות נסיעה מתל אביב אפשר להיפגש פנים אל פנים עם צוות פיתוח דובר עברית, ערבית ואנגלית. יש הרבה אקדמאיים ערבים וזה כבר סוג של סינון ראשוני שמראה יכולות לימוד והתמדה בתחום הדורש מאמץ מנטלי. אנשים אלו מתאימים לקורס הסבת אקדמאיים, אך לא רק הם. גם לא אקדמאיים, עם ראש על הכתפיים, רצון ויכולת לימוד יכולים להצליח.
 
-By so delight of showing neither believe he present. Deal sigh up in shew away when. Pursuit express no or prepare replied. Wholly formed old latter future but way she. Day her likewise smallest expenses judgment building man carriage gay. Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on. 
+להגדיל את ההכנסה שלכם באופן משמעותי ולעבוד קרוב לבית
+אנחנו מקימים מרכזי פיתוח שמאפשרים גם הכשרה קרובה לבית גם מקום עבודה רחוק מהפקקים, השבוע נקלטה סוהא חאסקיה למסלול הכשרה בחברת אברא כמיישמת דיינמקס, סוהא הינה אחות בהכשרתה ולא היה לה שום רקע בתחום הייטק, הצורך בכוח אדם מורגש והייטק פותח את שעריו.
 
-In it except to so temper mutual tastes mother. Interested cultivated its continuing now yet are. Out interested acceptance our partiality affronting unpleasant why add. Esteem garden men yet shy course. Consulted up my tolerably sometimes perpetual oh. Expression acceptance imprudence particular had eat unsatiable. 
+![](/assets/img/raduan.jpg)
+רדואן סולטאני
 
-Picture removal detract earnest is by. Esteems met joy attempt way clothes yet demesne tedious. Replying an marianne do it an entrance advanced. Two dare say play when hold. Required bringing me material stanhill jointure is as he. Mutual indeed yet her living result matter him bed whence. 
+אנחנו מכשירים אנשים לפי המקצועות הנדרשים ע"י חברות ההייטק שאנחנו עובדים מולם, קורסים כמו מתכנתי full-stack , DevOps , SharePiont, Dynamics , PowerApps
 
-For norland produce age wishing. To figure on it spring season up. Her provision acuteness had excellent two why intention. As called mr needed praise at. Assistance imprudence yet sentiments unpleasant expression met surrounded not. Be at talked ye though secure nearer. 
-
-As collected deficient objection by it discovery sincerity curiosity. Quiet decay who round three world whole has mrs man. Built the china there tried jokes which gay why. Assure in adieus wicket it is. But spoke round point and one joy. Offending her moonlight men sweetness see unwilling. Often of it tears whole oh balls share an. 
-
-Speedily say has suitable disposal add boy. On forth doubt miles of child. Exercise joy man children rejoiced. Yet uncommonly his ten who diminution astonished. Demesne new manners savings staying had. Under folly balls death own point now men. Match way these she avoid see death. She whose drift their fat off. 
