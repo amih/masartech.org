@@ -1,62 +1,64 @@
 ---
-title: "When You Have Too Much to Do"
-date: 2020-03-03T17:51
+title: "יותר מידי נושאים - איפה להתחיל?"
+date: 2022-01-30T17:51
 thumb: "much-to-do.jpg"
 tags: tips
 ---
 
-You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
+החלטת להתחיל ללמוד תכנות לבד, כל הכבוד! רשימת הנושאים והקורסים ארוכה ותדרוש ימים רבים. אתה עובר מקורס לקורס ומתקדם המון. כל אתר מושך לכיוון אחר.
+יש קורסים שמתמקדים בשפות תכנות שונו וקורסים על בסיס נתונים. יש קורסים על HTML וכאלה על אפליקציות למובייל.
 
-It all keeps piling up, and it can feel overwhelming.
+הכל מצטבר ואתה מרגיש שזה יותר מידי.
 
-How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?
+איך מתמודדים עם כל זה? איך שומרים על פוקוס ושלוות נפש כשיש כל כך הרבה דברים לעשות וללמוד, יש לך כל כך הרבה להספיק...
 
-In this primer, I’ll look at some key strategies and tactics for taking on an overloaded life with an open heart, lots of energy, and a smile on your face.
+בפוסט זה נבחן כמה דרכים להתמודד עם האתגר של עומס מוגזם ואיך להצליח בלימודים ולאזן עם החיים. איך להישאר מלא אנרגיות ועם חיוך ורוגע.
 
-## The First Step: Triage
+## שלב ראשון: מיון
 
-Whether you’re just starting your day, or you’re in the middle of the chaos and just need to find some sanity … the first step is to get into triage mode.
+לא משנה אם אתה בתחילת היום או שאתה באמצע כל הבלאגן וצריך למצוא קצת שפיות... השלב הראשון הוא לעצור ולשנות מצב עבודה למה שדומה לחדר מיון בבית חולים.
 
-Triage, as you probably know, is sorting through the chaos to prioritize: what needs to be done now, what needs to be done today, what needs to be done this week, and what can wait? You’re looking at urgency, but also what’s meaningful and important.
+בחדר מיון, כמו שאתה בטח יודע, ממיינים חולים בתנאי לחץ לפי סדרי עדיפויות: מה צריך לעשות עכשיו, מה צריך להספיק עד סוף היום, מה צריך לעשות השבוע, ומה יכול לחכות? מסתכלים על מה שדחוף, אבל גם על מה שחשוב ומשמעותי.
 
-Here’s what you might do:
+הנה דוגמה למה שאפשר לעשות:
 
-* Pick out the things that need to be done today. Start a Short List for things you’re going to do today. That might be important tasks for big projects, urgent tasks that could result in damage if you don’t act, smaller admin tasks that you really should take care of today, and responding to important messages. I would recommend being ruthless and cutting out as much as you can, having just 5 things on your plate if that’s at all possible. Not everything needs to be done today, and not every email needs to be responded to.
-* Push some things to tomorrow and the rest of the week. If you have deadlines that can be pushed back (or renegotiated), do that. Spread the work out over the week, even into next week. What needs to be done tomorrow? What can wait a day or two longer?
-* Eliminate what you can. That might mean just not replying to some messages that aren’t that important and don’t really require a reply. It might mean telling some people that you can’t take on this project after all, or that you need to get out of the commitment that you said you’d do. Yes, this is uncomfortable. For now, just put them on a list called, “To Not Do,” and plan to figure out how to get out of them later.
+* בחר את הדברים שצריך לעשות היום. התחל עם רשימה קצרה של דברים שאתה רוה לעשות היום. זה יכול להיות משימות חשובות לפרוייקטים גדולים, משימות דחופות שיגרמו לנזק אם לא יטופלו, משימות אדמיניסטרטיביות קטנות שבאמת צריך לטפל בהן היום, ותשובות למיילים שקיבלת. אני ממליץ להיות קשוח ולקצץ את הרשימה עד כמה שאפשר. כוון לחמישה פריטים, לא יותר. לא כל דבר צריך להתבצע היום ולא כל מייל צריך תשובה היום.
+* דחה חלק מהדברים למחר ואת השאר להמשך השבוע. אם יש לך תאריכי יעד שניתן לדחות או שאפשר לדון עליהם עם הלקוח, עשה זאת. פזר את העבודה לשבוע, ואפילו לשבוע שאחרי כן. מה צריך להתבצע מחר? מה יכול לחכות עוד כמה ימים?
+* בטל לגמרי משימות מיותרות. זה יכול להיות לא לענות כלל לכמה מיילים שלשיקולך הם לא דורשים תגובה. זה יכול להיות סרוב לקחת על עצמך פרוייקטים למרות שבעבר הבטחת לעשות אותם. או שאתה יכול לשגת מפרוייקט שהתחלת. נכון, זה לא נעים, אך אתה חייב את זה לעצמך. בינתיים אתה יכול לשים אותם ברשימה תחת הכותרת "מתישהו בעתיד" ותחזור אליה כשתתפנה.
 
-OK, you have some breathing room and a manageable list now! Let’s shrink that down even further and just pick one thing.
+טוב, עכשיו יש לך קצת מרווח נשימה ורשימה סבירה שאפשר להתמודד איתה! בואו נצמצם את זה אפילו יותר ונבחר נושא אחד בלבד.
 
-## Next: Focus on One Thing
+## שלב שני: התמקד בדבר אחד
 
-With a lot on your plate, it’s hard to pick one thing to focus on. But that’s exactly what I’m going to ask you to do.
+כשיש לך הרבה דברים לטפל בהם, קשה לבחור דבר אחד להתמקד בו. אך זה בדיוק מה שאבקש ממך לעשות עכשיו.
 
-Pick one thing, and give it your focus. Yes, there are a lot of other things you can focus on. Yes, they’re stressing you out and making it hard to focus. But think about it this way: if you allow it all to be in your head all the time, that will always be your mode of being. You’ll always be thinking about everything, stressing out about it all, with a frazzled mind … unless you start shifting.
+בחר נושא אחד, ותן לו את מלוא תשומת הלב שלך. זה נכון שיש לך עוד הרבה דברים אחרים להתמקד בהם. נכון, הם מעמיסים עליך מתח ולחץ ומקשים על המיקוד. אבל, חשוב על זה בצורה הזו: אם אתה מאפשר לזה להיות בראש שלך כל הזמן, זו תהיה צורת ההוויה שלך כל הזמן. כל הזמן תהיה מוטרד מכל הדברים, תהיה במתח ולחץ מתמידים על כל הדברים, עם מח מפוזר על כל הנושאים... אלא אם כן תתחיל לשנות את ההתנהלות שלך.
 
-The shift:
+השינוי:
 
-* Pick something to focus on. Look at the triaged list from the first section … if you have 5-6 things on this Short List, you can assess whether there’s any super urgent, time-sensitive things you need to take care of. If there are, pick one of them. If not, pick the most important one — probably the one you have been putting off doing.
-* Clear everything else away. Just for a little bit. Close all browser tabs, turn off notifications, close open applications, put your phone away.
-* Put that one task before you, and allow yourself to be with it completely. Pour yourself into it. Think of it as a practice, of letting go (of everything else), of focus, of radical simplicity.
+* בחר נושא להתמקד בו. סקור את רשימת חדר המיון שלך מהפיסקה הקודמת... אם יש לך 5-6 נושאים ברשימה הקצרה שלך, אתה יכול להעריך אם יש איזה נושא סופר דחוף, שגורם הזמן חשוב בו ושדורש את הטיפול המיידי שלך. אם יש כמה כאלה, בחר אחד מהם. אם אין כאלה, בחר את החשוב ביותר - קרוב לוודאי שדחית אותו הכי הרבה.
+* נקה את השולחן המנטלי והפיזי מכל הנושאים האחרים. גם אם לזמן מוגבל. סגור את כל האפליקציות והחלונות בדפדפן, כבה את כל ההתראות, שים את הטלפון על שקט והרחק אותו ממך.
+* שים את המשימה הבודדת שבחרת מולך, והרשה לעצמך להיות רק איתה. שקע בתוכה. חשוב על זה כתרגיל מדיטציה בו אתה משחרר כל מחשבה אחרת ומתמקד במשימה הזו, תרגיל בהתמקדות בדבר אחד, פישוט קיצוני.
 
-When you’re done (or after 15-20 minutes have gone by at least), you can switch to something else. But don’t allow yourself to switch until then.
 
-By closing off all exits, by choosing one thing, by giving yourself completely to that thing … you’re now in a different mode that isn’t so stressful or spread thin. You’ve started a shift that will lead to focus and sanity.
+כשתסיים (או אחרי ש 15-20 דקות חלפו לפחות), אתה יכול לעבור למשהו אחר. אך אל תרשה לעצמך להחליף מוקדם יותר.
 
-## Third: Schedule Time to Simplify
+על ידי חסימת כל פתחי המילוט, על ידי התמקדות בדבר אחד בלבד, על ידי התמסרות טוטלית לדבר... אתה עכשיו במצב פעולה אחר רגוע יותר ולא מפוזר. זו התחלת השינוי שיוביל למיקוד רב יותר ולשפיות.
 
-Remember the To Not Do list above? Schedule some time this week to start reducing your projects, saying no to people, getting out of commitments, crossing stuff off your task list … so that you can have some sanity back.
+## שלב שלישי: קבע זמן לפישוט
 
-There are lots of little things that you’ve said “yes” to that you probably shouldn’t have. That’s why you’re overloaded. Protect your more important work, and your time off, and your peace of mind, by saying “no” to things that aren’t as important.
+זוכר את רשימת המטלות שלא לביצוע מלמעלה? קבע לך זמן השבוע להתחיל לצמצם את הפרוייקטים שלך, בחר להגיד לא לאנשים, שחרר את עצמך מהתחיבויות, מחק דברים מרשימת המטלות שלך... כל זאת כדי להחזיר את השפיות לעצמך.
 
-Schedule the time to simplify — you don’t have to do it today, but sometime soon — and you can then not have to worry about the things on your To Not Do list until then.
+יש הרבה דברים קטנים שאמרת להם "כן" ושכנראה לא היית צריך. זו הסיבה שאתה בעומס יתר. הגן על העבודה החשובה יותר שלך, והזמן הפנוי שלך, השלווה הפנימית שלך, על ידי אמירת "לא" לדברים הלא חשובים.
 
-## Fourth: Practice Mindful Focus
+קבע זמן לפישוט - אתה לא חייב לעשות את זה היום, אבל מישהו בקרוב - ואז לא תצטרך לדאוג יותר לגבי הדברים ברשימת הלא לעשות עד אז.
 
-Go through the rest of the day with an attitude of “mindful focus.” That means that you are doing one thing at a time, being as present as you can, switching as little as you can.
+## שלב רביעי: התאמן על מיקוד מודע
 
-Think of it as a settling of the mind. A new mode of being. A mindfulness practice (which means you won’t be perfect at it).
+בהמשך היום היה בגישה של "מיקוד מודע". זאת אומרת שאתה עושה דבר אחד כל פעם, והיה נוכח עד כמה שתוכל, עם כמה שפחות החלפות מיקוד לנושאים אחרים.
 
-As you practice mindful focus, you’ll learn to practice doing things with an open heart, with curiosity and gratitude, and even joy. Try these one at a time as you get to do each task on your Short List.
+חשוב על זה כעל הרגעת הנפש. צורה חדשה של התנהלות. תרגול מודע - מה שאומר שלא תהיה מושלם בביצוע של זה.
 
-You’ll find that you’re not so overloaded, but that each task is just perfect for that moment. And that’s a completely new relationship with the work that you do, and a new relationship with life.
+בתהליך התרגול של מיקוד מודע, תלמד לעשות דברים בלב פתוח, עם סקרנות ותחושת אסירות תודה ואפילו הנאה. נסה זאת אחד בכל פעם כשאתה עובר על המשימות ברשימת המטלות הקצרה שלך.
+
+תגלה שאתה לא מרגיש עומס יתר, אלא שכל משימה מושלמת לרגע שלה. ושיש לך יחסים חדשים עם העבודה שאתה עושה ויחסים חדשים עם החיים עצמם.
