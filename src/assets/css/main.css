@@ -20,3 +20,9 @@
         clip-path: inset(1px);
     }
 }
+
+/* rtl fix amihdebug */
+.prose ol>li::before, .prose ul>li::before {
+    left: unset;
+    right: -20px;
+}
