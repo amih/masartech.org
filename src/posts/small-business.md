@@ -7,6 +7,8 @@ tags:
     - business
 ---
 
+[homework 1](https://raw.githubusercontent.com/amih/MasarTechBasic/main/homework1.js)
+
 When you start your small business, you will quickly become aware that there are many other little, but really important things as addition to the creation of the value that your small business will ship to the customers.
 
 Before several months, I have talked with an entrepreneur who has started the business and she becomes really disappointed when she discovered that the knowledge she possessed is not enough for successful running a small business. She needs a web designer for the business website, she needs an accountant who will manage finances, she needs to handle different invoicing options…
